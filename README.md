@@ -40,7 +40,4 @@ Building autonomous AI agents and automation pipelines. I specialize in **n8n or
 
 ---
 
-### Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/luis-rendon/)
-[![Email](https://img.shields.io/badge/Email-dcarlos.mx%40gmail.com-red?logo=gmail)](mailto:dcarlos.mx@gmail.com)
